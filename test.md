@@ -1,3 +1,6 @@
+**Subject of this notebook**\
+Authored by: Farhan Javid\
+Where to contact: javidf081@gmail.com
 # Content
 [1- Headings](#1--headings)\
 [2- Block of Words](#2--block-of-words)\
